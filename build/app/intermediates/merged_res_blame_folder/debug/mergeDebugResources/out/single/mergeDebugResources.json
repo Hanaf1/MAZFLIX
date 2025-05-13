@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "com.burjonet.burjo_stock.app-debug-53:/drawable-night-xxhdpi_android12splash.png.flat",
+        "source": "com.burjonet.burjo_stock.app-main-47:/drawable-night-xxhdpi/android12splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\mipmap-hdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\mipmap-hdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "com.burjonet.burjo_stock.app-debug-53:/drawable-mdpi_splash.png.flat",
+        "source": "com.burjonet.burjo_stock.app-main-47:/drawable-mdpi/splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\drawable-night-v21_launch_background.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\drawable-night-v21\\launch_background.xml"
+    },
+    {
+        "merged": "com.burjonet.burjo_stock.app-debug-53:/drawable-xhdpi_splash.png.flat",
+        "source": "com.burjonet.burjo_stock.app-main-47:/drawable-xhdpi/splash.png"
+    },
+    {
+        "merged": "com.burjonet.burjo_stock.app-debug-53:/drawable-xhdpi_android12splash.png.flat",
+        "source": "com.burjonet.burjo_stock.app-main-47:/drawable-xhdpi/android12splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\drawable-hdpi_splash.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\drawable-hdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\drawable-xhdpi_android12splash.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\drawable-xhdpi\\android12splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\mipmap-xxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\mipmap-xxhdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.burjonet.burjo_stock.app-debug-53:/drawable-hdpi_splash.png.flat",
+        "source": "com.burjonet.burjo_stock.app-main-47:/drawable-hdpi/splash.png"
+    },
+    {
+        "merged": "com.burjonet.burjo_stock.app-debug-53:/drawable-hdpi_android12splash.png.flat",
+        "source": "com.burjonet.burjo_stock.app-main-47:/drawable-hdpi/android12splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\drawable-night-xxxhdpi_android12splash.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\drawable-night-xxxhdpi\\android12splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\drawable-night-v21_background.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\drawable-night-v21\\background.png"
+    },
+    {
+        "merged": "com.burjonet.burjo_stock.app-debug-53:/drawable-night-xxhdpi_splash.png.flat",
+        "source": "com.burjonet.burjo_stock.app-main-47:/drawable-night-xxhdpi/splash.png"
+    },
+    {
+        "merged": "com.burjonet.burjo_stock.app-debug-53:/drawable-xxxhdpi_splash.png.flat",
+        "source": "com.burjonet.burjo_stock.app-main-47:/drawable-xxxhdpi/splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\drawable-night-hdpi_android12splash.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\drawable-night-hdpi\\android12splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\drawable-night-mdpi_android12splash.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\drawable-night-mdpi\\android12splash.png"
+    },
+    {
+        "merged": "com.burjonet.burjo_stock.app-debug-53:/drawable-night-mdpi_android12splash.png.flat",
+        "source": "com.burjonet.burjo_stock.app-main-47:/drawable-night-mdpi/android12splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\drawable-nodpi_splash.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\drawable-nodpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.burjonet.burjo_stock.app-debug-53:/drawable-night-hdpi_android12splash.png.flat",
+        "source": "com.burjonet.burjo_stock.app-main-47:/drawable-night-hdpi/android12splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\drawable-xxxhdpi_android12splash.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\drawable-xxxhdpi\\android12splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\mipmap-xxxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\mipmap-xxxhdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\mipmap-xhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\mipmap-xhdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "com.burjonet.burjo_stock.app-debug-53:/drawable-night-xhdpi_android12splash.png.flat",
+        "source": "com.burjonet.burjo_stock.app-main-47:/drawable-night-xhdpi/android12splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\drawable_splash.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\drawable\\splash.png"
+    },
+    {
+        "merged": "com.burjonet.burjo_stock.app-debug-53:/drawable-night-mdpi_splash.png.flat",
+        "source": "com.burjonet.burjo_stock.app-main-47:/drawable-night-mdpi/splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\mipmap-mdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\mipmap-mdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\drawable-night-xhdpi_android12splash.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\drawable-night-xhdpi\\android12splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\drawable-night-xhdpi_splash.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\drawable-night-xhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\drawable-xhdpi_splash.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\drawable-xhdpi\\splash.png"
+    },
+    {
+        "merged": "com.burjonet.burjo_stock.app-debug-53:/drawable-night-hdpi_splash.png.flat",
+        "source": "com.burjonet.burjo_stock.app-main-47:/drawable-night-hdpi/splash.png"
+    },
+    {
+        "merged": "com.burjonet.burjo_stock.app-debug-53:/drawable-night-xhdpi_splash.png.flat",
+        "source": "com.burjonet.burjo_stock.app-main-47:/drawable-night-xhdpi/splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\drawable-v21_launch_background.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\drawable-v21\\launch_background.xml"
+    },
+    {
+        "merged": "com.burjonet.burjo_stock.app-debug-53:/drawable-night-xxxhdpi_splash.png.flat",
+        "source": "com.burjonet.burjo_stock.app-main-47:/drawable-night-xxxhdpi/splash.png"
+    },
+    {
+        "merged": "com.burjonet.burjo_stock.app-debug-53:/drawable-night-xxxhdpi_android12splash.png.flat",
+        "source": "com.burjonet.burjo_stock.app-main-47:/drawable-night-xxxhdpi/android12splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\drawable-night-hdpi_splash.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\drawable-night-hdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\drawable-nodpi_logo.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\drawable-nodpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\mipmap-xxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\mipmap-xxhdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\drawable-v21_background.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\drawable-v21\\background.png"
+    },
+    {
+        "merged": "com.burjonet.burjo_stock.app-debug-53:/drawable-mdpi_android12splash.png.flat",
+        "source": "com.burjonet.burjo_stock.app-main-47:/drawable-mdpi/android12splash.png"
+    },
+    {
+        "merged": "com.burjonet.burjo_stock.app-debug-53:/drawable-xxxhdpi_android12splash.png.flat",
+        "source": "com.burjonet.burjo_stock.app-main-47:/drawable-xxxhdpi/android12splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\drawable-night-xxhdpi_android12splash.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\drawable-night-xxhdpi\\android12splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\drawable-night-xxxhdpi_splash.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\drawable-night-xxxhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.burjonet.burjo_stock.app-debug-53:/drawable-xxhdpi_splash.png.flat",
+        "source": "com.burjonet.burjo_stock.app-main-47:/drawable-xxhdpi/splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\drawable-xxhdpi_splash.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\drawable-xxhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\drawable-night-xxhdpi_splash.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\drawable-night-xxhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\drawable-hdpi_android12splash.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\drawable-hdpi\\android12splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\mipmap-hdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\mipmap-hdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\drawable-mdpi_android12splash.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\drawable-mdpi\\android12splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\drawable-mdpi_splash.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\drawable-mdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\drawable-xxxhdpi_splash.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\drawable-xxxhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\drawable-night-mdpi_splash.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\drawable-night-mdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\mipmap-xxxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\mipmap-xxxhdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\drawable-xxhdpi_android12splash.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\drawable-xxhdpi\\android12splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\mipmap-mdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\mipmap-mdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "com.burjonet.burjo_stock.app-debug-53:/drawable-xxhdpi_android12splash.png.flat",
+        "source": "com.burjonet.burjo_stock.app-main-47:/drawable-xxhdpi/android12splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-debug-53:\\mipmap-xhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.10.2\\com.burjonet.burjo_stock.app-main-47:\\mipmap-xhdpi\\ic_launcher_adaptive_fore.png"
+    }
+]

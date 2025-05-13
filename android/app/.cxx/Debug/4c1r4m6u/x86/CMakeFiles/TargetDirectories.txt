@@ -1,0 +1,2 @@
+E:/MAZFLIX/android/app/.cxx/Debug/4c1r4m6u/x86/CMakeFiles/edit_cache.dir
+E:/MAZFLIX/android/app/.cxx/Debug/4c1r4m6u/x86/CMakeFiles/rebuild_cache.dir

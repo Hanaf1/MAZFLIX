@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://burjonet-zeroes-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">341450839119</string>
+    <string name="google_api_key" translatable="false">AIzaSyCGEUU9rIojywDSbFqFIm3GAzYfL3i8zlo</string>
+    <string name="google_app_id" translatable="false">1:341450839119:android:4b61070980f4c7e589c63a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCGEUU9rIojywDSbFqFIm3GAzYfL3i8zlo</string>
+    <string name="google_storage_bucket" translatable="false">burjonet-zeroes.firebasestorage.app</string>
+    <string name="project_id" translatable="false">burjonet-zeroes</string>
+    <style name="LaunchTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        
+        <item name="android:windowBackground">@drawable/launch_background</item>
+        <item name="android:forceDarkAllowed">false</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">false</item>
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+    </style>
+    <style name="NormalTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">?android:colorBackground</item>
+    </style>
+</resources>

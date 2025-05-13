@@ -1,0 +1,55 @@
+plugins {
+    id "com.android.application"
+    id "kotlin-android"
+    id "dev.flutter.flutter-gradle-plugin"
+    id "com.google.gms.google-services"
+}
+
+android {
+    namespace "com.burjonet.burjo_stock"
+    compileSdk 34
+    ndkVersion "25.2.9519653"
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+        coreLibraryDesugaringEnabled true
+    }
+
+    kotlinOptions {
+        jvmTarget = "17"
+    }
+
+    defaultConfig {
+        applicationId "com.burjonet.burjo_stock"
+        minSdk 23
+        targetSdk 34
+        versionCode 1
+        versionName "1.0"
+    }
+
+    buildTypes {
+        release {
+            // Aktifkan code shrinking dan resource shrinking
+            minifyEnabled true
+            shrinkResources true  // Harus disertai minifyEnabled=true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+
+            // Signing config (sesuaikan dengan kebutuhan)
+            signingConfig signingConfigs.debug
+        }
+        debug {
+            // Nonaktifkan untuk mode debug
+            minifyEnabled false
+            shrinkResources false
+        }
+    }
+}
+
+dependencies {
+    // Dependency lainnya (jika ada)
+    coreLibraryDesugaring 'com.android.tools:desugar_jdk_libs:2.1.4'
+}
+flutter {
+    source "../.."
+}
